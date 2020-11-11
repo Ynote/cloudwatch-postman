@@ -1,3 +1,5 @@
+> This project has moved to https://gitlab.com/ynote_hk/cloudwatch-postman.
+
 # CloudWatch Postman [![Codeship Status for KissKissBankBank/cloudwatch-postman](https://app.codeship.com/projects/095c5ef0-5d45-0137-3423-3220a1e64d22/status?branch=master)](https://app.codeship.com/projects/343038)
 
 CloudWatch Postman is a Node server that sends data to [Amazon
